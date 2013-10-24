@@ -9,6 +9,7 @@ Main points:
 Three scripts are presented. All aim the same purpose. >>>
 calculates the bond distance as a function of the frames, for a series of bonds.
 
-AA-LIST-distance.tcl >>>most efficient
-AA-LIST-distance.tcl.bak.1 >>>worse
-AA-LIST-distance.tcl.bak.2 >>worst
+AA-LIST-distance.tcl >>>most efficient, and need "bond-aa-resid-name-list"
+AA-LIST-distance.tcl.bak.1 >>>worse, do NOT need "bond-aa-resid-name-list"
+AA-LIST-distance.tcl.bak.2 >>worst, do NOT need "bond-aa-resid-name-list"
+AA-LIST-distance.tcl.bak.3 >> as good as AA-LIST-distance.tcl, do NOT need "bond-aa-resid-name-list"
