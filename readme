@@ -1,0 +1,14 @@
+
+This three tcl scripts in for bond distance calculations.
+
+###############
+work routine.
+###############
+Main points:
+
+Three scripts are presented. All aim the same purpose. >>>
+calculates the bond distance as a function of the frames, for a series of bonds.
+
+AA-LIST-distance.tcl >>>most efficient
+AA-LIST-distance.tcl.bak.1 >>>worse
+AA-LIST-distance.tcl.bak.2 >>worst
